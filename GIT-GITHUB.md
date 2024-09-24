@@ -34,3 +34,22 @@ Git é um sistema de controle de versão que permite gerenciar alterações de u
 
 ---
 
+## GitHub
+
+GitHub é uma plataforma de hospedagem baseada em Git que permite colaboração entre desenvolvedores. Além de armazenar repositórios, o GitHub possui funcionalidades como issues que ajuda no desenvolvimento de projetos em equipe, é amplamente utilizado por desenvolvedores.
+
+### Principais funções do GitHub
+
+- **Repositórios**: Armazena um projeto na nuvem.
+- **Issues**: "Gerenciamento" de problemas, tarefas ou melhorias no projeto.
+- **Fork**: Cópia de um repositório de outro usuário, tornando possível a colaboração ampla de repositórios públicos.
+- **Suporte a markdown**: Suporte a documentos (como este) em formato Markdown para documentação.
+- 
+### Comandos Git com GitHub
+
+| Comando | Descrição |
+| :---: | --- |
+| `git remote add origin <repositorio>` | Conecta um repositório local ao GitHub |
+| `git push origin <branch>` | Envia as alterações para o GitHub |
+| `git pull origin <branch>` | Baixa as alterações do repositório para o local |
+| `git clone <repositório>` | Clona o repositório do GitHub para o local |
