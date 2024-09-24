@@ -19,18 +19,18 @@ Git é um sistema de controle de versão que permite gerenciar alterações de u
 | Comando | Descrição |
 | :---: |---|
 | `git init` | Inicializa um repositório Git no diretório atual|
-| `git clone <url-do-repositório>` | Clona um repositório remoto |
+| `git clone <repositório>` | Clona um repositório remoto |
 | `git status` | Mostra o status das modificações no repositório |
-| `git add ` | Adiciona o arquivo ao ap staging |
+| `git add <arquivo>` | Adiciona o arquivo ao staging |
 | `git add .` | Adiciona todos os arquivos ao staging |
 | `git commit -m "mensagem"` | Cria um commit com a mensagem especificada |
 | `git log` | Exibe o histórico de commits |
-| `git reset --hard HEAD~1` | Remove o último commit e as alterações |
-| `git branch <nome-da-branch>` | Cria uma nova branch |
-| `git checkout <nome-da-branch>` | Troca para a branch especificada |
-| `git checkout -b <nome-da-branch>`| Cria e troca para uma nova branch |
-| `git merge <nome-da-branch>` | Faz merge da branch especificada com a branch atual |
-| `git branch -d <nome-da-branch>` | Deleta a branch especificada |
+| `git reset --hard` | Remove o último commit e as alterações feitas |
+| `git branch <branch>` | Cria uma nova branch |
+| `git checkout <branch>` | Troca para a branch especificada |
+| `git checkout -b <branch>`| Cria e troca para uma nova branch |
+| `git merge <branch>` | Faz merge da branch especificada com a branch atual |
+| `git branch -d <branch>` | Deleta a branch especificada |
 
 ---
 
