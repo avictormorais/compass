@@ -10,4 +10,4 @@ Praticar markdown e revisar sobre o conteúdo aprendido durante a seção, reuni
 
 - [x] Metodologias ágeis: Scrum e Kanban
 - [x] Git e GitHub
-- [ ] Conventional Commits
+- [X] Conventional Commits
