@@ -8,7 +8,7 @@ Praticar markdown e revisar sobre o conteúdo aprendido durante a seção, reuni
 
 ## Conteúdo
 
-- [ ] Blockchain
+- [x] Blockchain
 - [ ] Bitcoin/Ethereum
 
 ## Conventions
