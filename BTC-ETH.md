@@ -14,3 +14,15 @@ O Bitcoin usa um modelo **Proof of Work**, onde mineradores competem para adicio
 
 ### Relevância
 A blockchain do Bitcoin é conhecida por sua segurança, seu grande uso e descentralização, mas enfrenta alguns problemas como o alto consumo de energia devido ao PoW. Apesar disso, é uma grande e primeiro caso de sucesso de uso da blockchain em escala global.
+
+
+## Ethereum
+
+### Visão Geral
+O **Ethereum** vai além das transações financeiras. Ele foi pioneiro na ideia de **contratos inteligentes**, que são executados automaticamente quando determinadas condições são cumpridas.
+
+### Blockchain do Ethereum
+Assim como o Bitcoin, o Ethereum começou usando Proof of Work, mas recentemente passou para o **Proof of Stake**. Isso reduz o consumo de energia e acelera a atualização da rede, mantendo a segurança.
+
+### Relevância
+A blockchain do Ethereum não é apenas uma plataforma para a criptomoeda, mas também uma infraestrutura para desenvolvedores criarem aplicativos descentralizados. Isso amplica drasticamente o uso da blockchain, como por exemplo os contratos inteligentes, que podem ser integrados em vários setores.
