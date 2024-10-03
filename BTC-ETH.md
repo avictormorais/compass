@@ -26,3 +26,12 @@ Assim como o Bitcoin, o Ethereum começou usando Proof of Work, mas recentemente
 
 ### Relevância
 A blockchain do Ethereum não é apenas uma plataforma para a criptomoeda, mas também uma infraestrutura para desenvolvedores criarem aplicativos descentralizados. Isso amplica drasticamente o uso da blockchain, como por exemplo os contratos inteligentes, que podem ser integrados em vários setores.
+
+## Comparação entre Bitcoin e Ethereum
+
+| Aspecto | Bitcoin| Ethereum |
+| :---: | --- | --- |
+| **Objetivo** | Moeda digital | Plataforma para contratos inteligentes e dApps |
+| **Mecanismo de Consenso** | Proof of Work | Migrou para Proof of Stake |
+| **Flexibilidade** | Foco em transações | Permite criação de contratos inteligentes|
+| **Escalabilidade** | Desafios com tempo de validação gasto energético | Melhor eficiencia com o PoS |
